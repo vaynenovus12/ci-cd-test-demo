@@ -28,7 +28,7 @@ public class HelloServlet extends HttpServlet {
        out.println("</head>");
        out.println("<body>");
        out.println("<h1>CI/CD Demo - Version 1</h1>");
-       out.println("<p>This version should deploy only when tests pass.</p>");
+       out.println("<p>This version should deploy only when tests pass. HAHAHAHAHAHAHHA</p>");
        out.println("</body>");
        out.println("</html>");
    }
